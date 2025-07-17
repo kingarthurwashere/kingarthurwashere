@@ -16,91 +16,105 @@
 
 ---
 
-## 🚀 Quick Stats
+## 🚀 Performance Dashboard
 
 <div align="center">
 
-| 💼 Experience | 🏗️ Projects Delivered | 🌱 Companies Founded | 🎓 Certifications |
-|:-------------:|:---------------------:|:--------------------:|:-----------------:|
-| **7+ Years**  | **30+ Projects**      | **1 Company**        | **2 Major Certs** |
+| 💼 Experience | 🏗️ Projects | 🌱 Companies | 🎓 Certifications | 💰 Revenue Generated | 👥 Users Served |
+|:-------------:|:------------:|:------------:|:-----------------:|:-------------------:|:---------------:|
+| **7+ Years**  | **50+**      | **1**        | **2 Major**       | **$150K+**          | **15K+**        |
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 📊 Comprehensive Analytics
 
-> 🔭 **Currently working on:** AgTech GIS dashboards, WhatsApp payment bots, ML APIs  
-> 🧠 **Learning:** Advanced geospatial modeling, scalable ML infrastructure  
-> 💬 **Ask me about:** Next.js, FastAPI, GIS, ML pipelines, WhatsApp bots  
-> ⚡ **Fun fact:** I build apps that read space data and help farmers on Earth 🌍🚀🌾
+### 💻 Technology Proficiency Matrix
+
+```
+Programming Languages Mastery:
+┌─────────────────────────────────────────────────────────────┐
+│ Python          ████████████████████ 95% (Expert)          │
+│ JavaScript      ███████████████████  90% (Expert)          │
+│ TypeScript      ██████████████████   85% (Advanced)        │
+│ PHP             █████████████████    80% (Advanced)        │
+│ SQL             ████████████████████ 95% (Expert)          │
+│ C#              ████████████         60% (Intermediate)    │
+│ Java            ███████████          55% (Intermediate)    │
+└─────────────────────────────────────────────────────────────┘
+
+Frontend Frameworks Expertise:
+┌─────────────────────────────────────────────────────────────┐
+│ Next.js         ████████████████████ 95% (Expert)          │
+│ React           ████████████████████ 95% (Expert)          │
+│ Vue.js          ████████████████     75% (Advanced)        │
+│ Flutter         █████████████████    80% (Advanced)        │
+│ Angular         ██████████           50% (Intermediate)    │
+└─────────────────────────────────────────────────────────────┘
+
+Backend Technologies Mastery:
+┌─────────────────────────────────────────────────────────────┐
+│ FastAPI         ████████████████████ 95% (Expert)          │
+│ Django          ██████████████████   85% (Advanced)        │
+│ Laravel         ████████████████████ 95% (Expert)          │
+│ NestJS          █████████████████    80% (Advanced)        │
+│ Express.js      ██████████████████   85% (Advanced)        │
+│ Node.js         ██████████████████   85% (Advanced)        │
+└─────────────────────────────────────────────────────────────┘
+
+Database & Storage Expertise:
+┌─────────────────────────────────────────────────────────────┐
+│ PostgreSQL      ████████████████████ 95% (Expert)          │
+│ PostGIS         ██████████████████   85% (Advanced)        │
+│ MySQL           ████████████████████ 95% (Expert)          │
+│ MongoDB         █████████████████    80% (Advanced)        │
+│ Firebase        ████████████████     75% (Advanced)        │
+│ Redis           ███████████████      70% (Advanced)        │
+│ Cassandra       ██████████           50% (Intermediate)    │
+└─────────────────────────────────────────────────────────────┘
+
+Machine Learning & GIS Stack:
+┌─────────────────────────────────────────────────────────────┐
+│ GeoPandas       ██████████████████   85% (Advanced)        │
+│ Rasterio        █████████████████    80% (Advanced)        │
+│ Shapely         ██████████████████   85% (Advanced)        │
+│ OpenCV          ████████████████     75% (Advanced)        │
+│ scikit-learn    ██████████████████   85% (Advanced)        │
+│ PyTorch         ███████████████      70% (Advanced)        │
+│ Sentinel Hub    ██████████████████   85% (Advanced)        │
+│ Planet API      █████████████████    80% (Advanced)        │
+│ Google Earth    ████████████████     75% (Advanced)        │
+└─────────────────────────────────────────────────────────────┘
+
+DevOps & Cloud Proficiency:
+┌─────────────────────────────────────────────────────────────┐
+│ Docker          ██████████████████   85% (Advanced)        │
+│ Linux           ████████████████████ 95% (Expert)          │
+│ GitHub Actions  █████████████████    80% (Advanced)        │
+│ Jenkins         ███████████████      70% (Advanced)        │
+│ AWS             ████████████         60% (Intermediate)    │
+│ Nginx           ██████████████████   85% (Advanced)        │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🛠️ Tech Stack & Proficiency
-
-### 💻 Programming Languages
-```
-Python          ████████████████████ 95%
-JavaScript      ███████████████████  90%
-TypeScript      ██████████████████   85%
-PHP             █████████████████    80%
-C#              ████████████         60%
-Java            ███████████          55%
-SQL             ████████████████████ 95%
-```
-
-### 🎨 Frontend Technologies
-```
-Next.js         ████████████████████ 95%
-React           ████████████████████ 95%
-Vue.js          ████████████████     75%
-Flutter         █████████████████    80%
-```
-
-### ⚙️ Backend Frameworks
-```
-FastAPI         ████████████████████ 95%
-Django          ██████████████████   85%
-NestJS          █████████████████    80%
-Laravel         ████████████████████ 95%
-Express.js      ██████████████████   85%
-```
-
-### 🗄️ Databases & Storage
-```
-PostgreSQL      ████████████████████ 95%
-PostGIS         ██████████████████   85%
-MongoDB         █████████████████    80%
-MySQL           ████████████████████ 95%
-Firebase        ████████████████     75%
-```
-
-### 🌍 GIS & Machine Learning
-```
-GeoPandas       ██████████████████   85%
-Rasterio        █████████████████    80%
-OpenCV          ████████████████     75%
-scikit-learn    ██████████████████   85%
-PyTorch         ███████████████      70%
-Sentinel Hub    ██████████████████   85%
-```
-
----
-
-## 📈 Experience Timeline
+## 📈 Career Growth Timeline
 
 ```mermaid
 gantt
-    title Professional Journey
+    title Professional Journey & Milestones
     dateFormat  YYYY-MM-DD
-    section Freelance
-    Freelance Developer    :2017-01-01, 2024-12-31
-    section KwikPay
-    Lead Developer         :2021-01-01, 2024-12-31
-    section King Arthur Tech
-    Founder & Lead Engineer :2021-01-01, 2024-12-31
-    section AgTech
-    Frontend & ML Engineer  :2024-01-01, 2024-12-31
-    section StoreFire
-    Backend Developer       :2024-01-01, 2024-12-31
+    section Education & Early Career
+    Computer Science Studies    :2015-01-01, 2017-12-31
+    First Freelance Projects    :2017-01-01, 2018-12-31
+    section Skill Development
+    Full Stack Mastery         :2018-01-01, 2020-12-31
+    Mobile Development         :2019-01-01, 2021-12-31
+    section Professional Growth
+    KwikPay Lead Developer     :2021-01-01, 2024-12-31
+    King Arthur Tech Founder   :2021-06-01, 2024-12-31
+    section Specialization
+    AgTech & GIS Focus         :2023-01-01, 2024-12-31
+    ML & Satellite Data        :2024-01-01, 2024-12-31
