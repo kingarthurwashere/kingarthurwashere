@@ -125,4 +125,4 @@
 
 ---
 
-> “From satellites to WhatsApp bots — I build tech that bridges space and people.”
+> “First, solve the problem. Then, write the code.” – John Johnson
