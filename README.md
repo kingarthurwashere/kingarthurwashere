@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Arthur Nyasango
 
-🎯 A **Full Stack Software Engineer** and Founder of **KwikPay Solutions Pvt Ltd**, based in Zimbabwe. I specialize in building robust, user-focused digital solutions—ranging from WhatsApp bots to full-scale mobile apps and web platforms. I love solving real-world problems through technology and building systems that scale.
+🎯 A **Full Stack Software Engineer** and Founder of **King Arthur Technologies**, based in Zimbabwe. I'm currently the **Lead Developer at KwikPay Solutions Pvt Ltd**, and I also work in the AgTech space building platforms that combine **Next.js**, **GIS**, **satellite & drone data**, and **machine learning** to power digital agriculture solutions.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on: WhatsApp commerce automation, React + NestJS devotional platforms, and cross-platform mobile apps.
-- 🧠 Learning: Microservices, AI integrations, scalable architecture patterns.
-- 💬 Ask me about: Flutter, Laravel, Node.js, DevOps, API integrations, bots, or payment systems.
-- ✍🏽 Blogging soon: [Blog (Coming Soon)](https://kingarthurwashere.dev/blog)
-- ⚡ Fun fact: I built my first business chatbot in under 48 hours… with payment integration.
+- 🔭 Currently working on: AgTech GIS dashboards, WhatsApp payment bots, ML APIs
+- 🧠 Learning: Advanced geospatial modeling, scalable machine learning infrastructure
+- 💬 Ask me about: Next.js, FastAPI, GIS, ML pipelines, WhatsApp bots, Sentinel/PlanetScope
+- ⚡ Fun fact: I build apps that read space data and help farmers on Earth 🌍🚀🌾
 
 ---
 
@@ -20,63 +19,80 @@
 `Python`, `JavaScript`, `TypeScript`, `PHP`, `C#`, `Java`, `SQL`
 
 **Frameworks & Libraries:**  
-`Flutter`, `React`, `Vue`, `NestJS`, `Express.js`, `Laravel`, `Django`, `FastAPI`, `ASP.NET`, `Spring Boot`, `FilamentPHP`
+`Next.js`, `React`, `Vue`, `Flutter`, `NestJS`, `Express.js`, `FastAPI`, `Django`, `Laravel`, `FilamentPHP`
+
+**Machine Learning & GIS:**  
+`scikit-learn`, `PyTorch`, `OpenCV`, `GeoPandas`, `Rasterio`, `Shapely`, `PostGIS`, `Leaflet`, `Sentinel Hub`, `Planet API`
 
 **Databases:**  
-`PostgreSQL`, `MySQL`, `MongoDB`, `Firebase Firestore`, `Cassandra`
+`PostgreSQL`, `PostGIS`, `MySQL`, `MongoDB`, `Firebase Firestore`, `Cassandra`
 
 **DevOps & Tools:**  
 `Docker`, `Jenkins`, `GitHub Actions`, `Nginx`, `Firebase`, `Stripe`, `Paynow Zimbabwe`, `Meta WhatsApp Cloud API`
 
-**OS & Platforms:**  
-`Linux (Ubuntu/Kali)`, `Windows Server`, `macOS`, `Android`, `iOS`
+**Cloud & Platforms:**  
+`Linux`, `Windows Server`, `macOS`, `Android`, `iOS`, `Google Earth Engine`, `AWS`, `PlanetScope`, `Sentinel`
 
 ---
 
 ## 🧾 Experience
 
-### 👑 Founder & Lead Engineer — KwikPay Solutions Pvt Ltd
+### 👑 Founder & Lead Engineer — King Arthur Technologies  
+**2021 – Present**
+
+- Lead a tech consultancy building:
+  - WhatsApp bots for e-commerce and service payments
+  - Flutter apps, admin dashboards, and headless CMS platforms
+  - APIs for fintech, events, and healthcare sectors
+
+---
+
+### 🧠 Lead Developer — KwikPay Solutions Pvt Ltd  
 **Jan 2021 – Present**
 
-- Developed a fintech platform integrating WhatsApp bots for services like:
-  - ZESA token purchasing
-  - Airtime/Data sales
-  - Event ticketing
-  - Bill payments (schools, hospitals, funeral policies)
+- Developed a fintech platform integrating WhatsApp bots for:
+  - ⚡ ZESA token purchases  
+  - 📱 Airtime & mobile data sales  
+  - 🎫 Event ticketing  
+  - 💳 Bill payments (schools, hospitals, funeral policies)
 - Integrated multiple payment gateways: **Paynow, Stripe, Pesepay**
-- Built a fully automated order workflow via WhatsApp Cloud API + PostgreSQL backend
-- Tech stack: `Python`, `Node.js`, `PostgreSQL`, `Docker`, `Meta API`, `Django`
+- Built automated WhatsApp workflows with PostgreSQL + Meta API
+- Stack: `Python`, `Node.js`, `Django`, `Docker`, `PostgreSQL`, `Meta API`
 
 ---
 
-### 🧑‍💻 Freelance Full Stack Developer
-**2017 – Present**
-
-- Built 30+ client applications using:
-  - `Laravel`, `React`, `Vue.js`, `Flutter`, `Node.js`, `FastAPI`
-  - Custom admin dashboards, CRMs, ERPs, POS, and chatbots
-- Delivered scalable APIs and frontends for:
-  - Online stores, accounting systems, internal remittance platforms
-  - Blog & devotional platforms using `NestJS` and `React`
-- Integrated OAuth2, JWT, SMS, and third-party APIs for business tools
-
----
-
-### 🛒 Backend Developer — StoreFire Platform
+### 🌾 Frontend & ML Engineer — AgTech Company  
 **2024 – Present**
 
-- Laravel 11-based backend pushing scraped e-commerce products to frontend
-- Used Redis, queues, and scheduled tasks to manage product syncing
-- Ensured fast and reliable data delivery via REST APIs
+- Lead frontend development using **Next.js** for GIS crop monitoring dashboards
+- Built ML APIs using **FastAPI** to process drone/satellite data (NDVI, RGB, etc.)
+- Managed data from **Sentinel**, **PlanetScope**, and UAVs for farm analytics
+- Used **GeoTIFF**, **PostGIS**, and **Google Earth Engine** for spatial analytics
 
 ---
 
-### 💰 POS & Accounting System — Lead Architect
+### 🧑‍💻 Freelance Full Stack Developer  
+**2017 – Present**
+
+- Delivered 30+ web and mobile projects for startups and SMEs:
+  - Laravel, React, Vue, Flutter, Node.js, FastAPI apps
+  - Custom CRMs, internal tools, POS systems, chatbots
+
+---
+
+### 🛒 Backend Developer — StoreFire Platform  
+**2024 – Present**
+
+- Laravel 11 backend processing scraped product data and syncing with frontend
+- Optimized performance using Redis queues and scheduled batch jobs
+
+---
+
+### 💰 POS & Accounting System — Lead Architect  
 **2023 – 2024**
 
-- Built Laravel + Filament-based point-of-sale and accounting platform
-- Features: multi-user roles, ledgers, internal remittance, secure transaction logs
-- Stack: `Laravel`, `Filament`, `MySQL`, `Docker`, `Jenkins`, `REST API`
+- Designed Laravel + Filament POS & ledger system for small businesses
+- Features: internal remittance, multi-user access, reports, and accounting logs
 
 ---
 
@@ -84,12 +100,12 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **KwikPay Bot** | WhatsApp bot for purchasing ZESA, airtime, and tickets | Python, PostgreSQL, Meta API |
-| **PPG Platform** | Pregnancy Prayer Guide site + podcast + weekly resources | React, NestJS, Prisma, PostgreSQL |
-| **PlayAfrika TV** | Flutter app streaming African content via PodPlayer | Flutter, Firebase |
-| **POS + Remittance System** | Accounting & POS system with ledger tracking | Laravel, FilamentPHP |
-| **StoreFire Backend** | Laravel backend for scraped product sync | Laravel 11, MySQL, Redis |
-| **WhatsApp Dev Bot** | Custom command-based bot with buttons | Node.js, MongoDB |
+| **AgriDash** | GIS + ML dashboard for agriculture from drones/satellites | Next.js, FastAPI, Sentinel, GeoTIFF, PostgreSQL |
+| **KwikPay Bot** | WhatsApp bot for electricity, airtime, tickets, and bills | Django, Python, PostgreSQL, WhatsApp Cloud API |
+| **PPG Devotionals Platform** | Pregnancy guide and devotional platform | React, NestJS, Prisma, PostgreSQL |
+| **PlayAfrika TV** | Video streaming app for African content | Flutter, Firebase |
+| **POS & Remittance System** | Full-featured Laravel POS + accounting system | Laravel, FilamentPHP, MySQL |
+| **StoreFire Backend** | Product sync service with Laravel backend | Laravel, Redis, MySQL |
 
 ---
 
@@ -97,8 +113,6 @@
 
 - 🥇 Google Africa Developer Training (Flutter)
 - 🥇 Meta Full Stack Developer Specialization (Coursera)
-- 🥇 Certified Ethical Hacker (CEH v11)
-- 🥇 Java Spring Framework – Intermediate (JetBrains Academy)
 
 ---
 
@@ -111,4 +125,4 @@
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “From satellites to WhatsApp bots — I build tech that bridges space and people.”
