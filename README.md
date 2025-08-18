@@ -35,7 +35,7 @@
 
 ## 🧾 Experience
 
-### 👑 Founder & Lead Engineer — King Arthur Technologies  
+### 👑 Founder & Lead Engineer — King Arthur Technologies
 **Jan 2021 – Present**
 
 - Lead a software engineering consultancy building:
@@ -47,7 +47,7 @@
 
 ---
 
-### 🧑‍💻 Freelance Full Stack Developer  
+### 🧑‍💻 Freelance Full Stack Developer
 **2017 – Present**
 
 - Built 30+ client applications using:
@@ -60,7 +60,7 @@
 
 ---
 
-### 🛒 Backend Developer — StoreFire Platform  
+### 🛒 Backend Developer — StoreFire Platform
 **2024 – Present**
 
 - Laravel 11-based backend pushing scraped e-commerce products to frontend
@@ -69,7 +69,7 @@
 
 ---
 
-### 💰 POS & Accounting System — Lead Architect  
+### 💰 POS & Accounting System — Lead Architect
 **2023 – 2024**
 
 - Built Laravel + Filament-based point-of-sale and accounting platform
@@ -96,7 +96,6 @@
 - 🥇 Google Africa Developer Training (Flutter)
 - 🥇 Meta Full Stack Developer Specialization (Coursera)
 
----
 
 ## 🔗 Connect With Me
 
