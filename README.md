@@ -1,109 +1,192 @@
-# 👋 Hi, I'm Arthur Nyasango
+# 👋 Arthur Nyasango | Full Stack Software Engineer | AI, IoT & Satellite Systems
 
-🎯 A **Full Stack Software Engineer** and Founder of **King Arthur Technologies**, based in Zimbabwe. I specialize in building robust, user-focused digital solutions—ranging from WhatsApp bots to full-scale mobile apps and web platforms. I love solving real-world problems through technology and building systems that scale.
+🚀 **Full Stack Software Engineer • Systems Architect • Founder @ King Arthur Technologies**  
+🌍 Remote-ready | Zimbabwe  
+💡 Specializing in **AI-powered platforms, satellite remote sensing, IoT systems, fintech automation, and scalable web & mobile applications**
+
+---
+
+## 🔎 Keywords (for GitHub Search)
+Full Stack Developer, Software Engineer, AI Engineer, IoT Developer,  
+Satellite Remote Sensing, GIS, FinTech, DevOps Engineer,  
+Python Developer, Laravel Developer, Flutter Developer, React Developer,  
+Docker, Kubernetes, PostgreSQL, WhatsApp Bots, Payment Systems
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on: WhatsApp commerce automation, React + NestJS devotional platforms, and cross-platform mobile apps.
-- 🧠 Learning: Microservices, AI integrations, scalable architecture patterns.
-- 💬 Ask me about: Flutter, Laravel, Node.js, DevOps, API integrations, bots, or payment systems.
-- ✍🏽 Blogging soon: [Blog (Coming Soon)](https://kingarthurwashere.dev/blog)
-- ⚡ Fun fact: I built my first business chatbot in under 48 hours… with payment integration.
+I design and build **production-grade software systems** that solve real-world problems — from **WhatsApp commerce and fintech platforms** to **satellite intelligence, AI-driven analytics, and IoT monitoring systems**.
+
+- 🔭 **Currently working on**
+  - Satellite & IoT platforms for **agriculture and mining intelligence**
+  - AI-powered geospatial analytics
+  - WhatsApp automation & payment systems
+  - React + NestJS content & devotional platforms
+
+- 🧠 **Actively learning**
+  - Microservices & distributed systems
+  - Event-driven & low-latency architectures
+  - AI/ML for geospatial and time-series data
+
+- 💬 **Ask me about**
+  Flutter, Laravel, Node.js, Python, DevOps, APIs, GIS, satellite data, payments
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Primary Skills)
 
-**Languages:**  
-`Python`, `JavaScript`, `TypeScript`, `PHP`, `C#`, `Java`, `SQL`
+### Programming Languages
+Python, JavaScript, TypeScript, PHP, C#, Java, SQL
 
-**Frameworks & Libraries:**  
-`Flutter`, `React`, `Vue`, `NestJS`, `Express.js`, `Laravel`, `Django`, `FastAPI`, `ASP.NET`, `Spring Boot`, `FilamentPHP`
+### Frameworks & Platforms
+Flutter, React, Vue, NestJS, Express.js, Laravel, Django, FastAPI,  
+ASP.NET, Spring Boot, FilamentPHP
 
-**Databases:**  
-`PostgreSQL`, `MySQL`, `MongoDB`, `Firebase Firestore`, `Cassandra`
+### Databases & Data
+PostgreSQL, MySQL, MongoDB, Firebase Firestore, Cassandra, XML (ODM)
 
-**DevOps & Tools:**  
-`Docker`, `Jenkins`, `GitHub Actions`, `Nginx`, `Firebase`, `Stripe`, `Paynow Zimbabwe`, `Meta WhatsApp Cloud API`
+### DevOps & Cloud
+Docker, Jenkins, GitHub Actions, Nginx, Redis, CI/CD Pipelines
 
-**OS & Platforms:**  
-`Linux (Ubuntu/Kali)`, `Windows Server`, `macOS`, `Android`, `iOS`
+### APIs & Integrations
+Stripe, Paynow Zimbabwe, Pesepay,  
+Meta WhatsApp Cloud API, OAuth2, JWT, Webhooks
+
+### Operating Systems
+Linux (Ubuntu, Kali), Windows Server, macOS
 
 ---
 
-## 🧾 Experience
+## 🧾 Professional Experience
 
-### 👑 Founder & Lead Engineer — King Arthur Technologies
+### 👑 Founder & Lead Software Engineer — **King Arthur Technologies**
 **Jan 2021 – Present**
 
-- Lead a software engineering consultancy building:
-  - WhatsApp bots for bill payments and e-commerce
-  - Flutter mobile apps and headless CMS websites
-  - Web APIs and admin dashboards
-- Developed custom integrations with: **Paynow, Stripe, Pesepay, WhatsApp Cloud API**
-- Served clients in fintech, health, retail, and education sectors
+- Founded and led a software engineering consultancy
+- Built **WhatsApp bots, fintech platforms, mobile apps, and SaaS systems**
+- Designed scalable REST APIs, dashboards, and automation pipelines
+- Integrated payment gateways and messaging platforms
+- Delivered solutions across **fintech, health, retail, education, media**
 
 ---
 
 ### 🧑‍💻 Freelance Full Stack Developer
 **2017 – Present**
 
-- Built 30+ client applications using:
-  - `Laravel`, `React`, `Vue.js`, `Flutter`, `Node.js`, `FastAPI`
-  - Custom admin dashboards, CRMs, ERPs, POS, and chatbots
-- Delivered scalable APIs and frontends for:
-  - Online stores, accounting systems, internal remittance platforms
-  - Blog & devotional platforms using `NestJS` and `React`
-- Integrated OAuth2, JWT, SMS, and third-party APIs for business tools
+- Delivered **30+ production systems** for global clients
+- Built CRMs, ERPs, POS systems, chatbots, and internal tools
+- Developed scalable backends and modern frontends
+- Implemented authentication, payments, and third-party integrations
 
 ---
 
 ### 🛒 Backend Developer — StoreFire Platform
 **2024 – Present**
 
-- Laravel 11-based backend pushing scraped e-commerce products to frontend
-- Used Redis, queues, and scheduled tasks to manage product syncing
-- Ensured fast and reliable data delivery via REST APIs
+- Laravel 11 backend for e-commerce data pipelines
+- Redis queues, scheduled jobs, and REST APIs
+- High-availability backend services
 
 ---
 
 ### 💰 POS & Accounting System — Lead Architect
 **2023 – 2024**
 
-- Built Laravel + Filament-based point-of-sale and accounting platform
-- Features: multi-user roles, ledgers, internal remittance, secure transaction logs
-- Stack: `Laravel`, `Filament`, `MySQL`, `Docker`, `Jenkins`, `REST API`
+- Designed and implemented a POS & accounting platform
+- Secure transaction logs and remittance workflows
+- Stack: Laravel, FilamentPHP, MySQL, Docker, CI/CD
 
 ---
 
-## 💼 Projects
+## 🛰️ AI, IoT & Satellite Remote Sensing Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **WhatsApp Commerce Bot** | WhatsApp bot for ZESA, airtime, event tickets, and subscriptions | Python, PostgreSQL, Meta API |
-| **PPG Devotional Platform** | Pregnancy Prayer Guide with weekly devotionals and podcast support | React, NestJS, Prisma, PostgreSQL |
-| **PlayAfrika TV** | Flutter-based video streaming app for African content | Flutter, Firebase |
-| **POS + Remittance System** | Laravel-based internal remittance and point-of-sale platform | Laravel, FilamentPHP |
-| **StoreFire Backend** | Laravel 11 backend for syncing scraped products to frontend | Laravel, MySQL, Redis |
-| **WhatsApp Dev Bot** | Custom WhatsApp bot with interactive buttons | Node.js, MongoDB |
+### 🛰️ Mining Satellite Intelligence Platform *(Private)*
+
+AI-powered satellite remote sensing platform for **mining exploration and environmental monitoring**.
+
+**Key Capabilities**
+- Mineral alteration mapping
+- Lithology classification
+- Land-use & land-cover change detection
+- Environmental compliance dashboards
+
+**Tech Stack**
+Python, AI/ML, PostGIS, REST APIs, Docker, GIS
+
+---
+
+### 🌾 Satellite Crop Monitoring & Land Use System
+
+AI + satellite platform for **precision agriculture and land analysis**.
+
+- NDVI & EVI crop health monitoring
+- Drought & flood detection
+- Crop classification using machine learning
+- Interactive geospatial dashboards
+
+**Stack**
+Next.js, FastAPI, PostgreSQL/PostGIS, Mapbox, Python ML, MQTT
+
+---
+
+### 📡 IoT Satellite TV Signal Monitoring System
+
+- IoT-based signal health monitoring
+- Real-time telemetry via MQTT
+- Alerting & analytics dashboards
+
+---
+
+## 💹 Quantitative Finance & Low-Latency Systems
+
+### ⚡ Polymer-Bot *(Private)*
+
+High-frequency, Python-based trading bot for **latency arbitrage and delta-neutral market making** on **:contentReference[oaicite:0]{index=0}**.
+
+- Real-time order book analysis
+- Low-latency execution
+- Risk-managed exposure
+
+---
+
+## 🏥 Health-Tech Software
+
+### 🏥 Clinical Audit Dashboard *(Public)*
+
+Clinical audit data management system for  
+**:contentReference[oaicite:1]{index=1}**.
+
+- Structured clinical workflows
+- XML-based document modeling
+- Audit reporting & validation
+
+---
+
+## 💼 Featured Projects
+
+| Project | Focus | Stack |
+|------|------|------|
+| WhatsApp Commerce Bot | Fintech automation | Python, PostgreSQL |
+| PlayAfrika TV | Mobile streaming | Flutter, Firebase |
+| POS & Remittance System | Accounting | Laravel, Filament |
+| StoreFire Backend | E-commerce APIs | Laravel, Redis |
 
 ---
 
 ## 📜 Certifications
 
-- 🥇 Google Africa Developer Training (Flutter)
-- 🥇 Meta Full Stack Developer Specialization (Coursera)
-
-
-## 🔗 Connect With Me
-
-- 🔗 GitHub: [github.com/kingarthurwashere](https://github.com/kingarthurwashere)
-- 🔗 LinkedIn: [linkedin.com/in/arthur-nyasango](https://www.linkedin.com/in/arthur-nyasango/)
-- 📧 Email: [arthurnyasango@gmail.com](mailto:arthurnyasango@gmail.com)
-- 🌐 Website / Portfolio: _Coming Soon_
+- Google Africa Developer Training — Flutter
+- Meta Full Stack Developer Specialization — Coursera
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+## 🔗 Contact & Links
+
+- GitHub: https://github.com/kingarthurwashere
+- LinkedIn: https://linkedin.com/in/arthur-nyasango
+- Email: arthurnyasango@gmail.com
+
+---
+
+> *“First, solve the problem. Then, write the code.”*
