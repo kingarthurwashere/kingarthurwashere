@@ -160,10 +160,11 @@ Clinical audit data system for radiotherapy workflows using XML-based ODM archit
 
 ## 📊 GitHub Stats
 
-![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingarthurwashere&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingarthurwashere&layout=compact&theme=transparent)
+![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingarthurwashere&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingarthurwashere&layout=compact&hide_border=true)
 
 ---
+
 
 ## 🔗 Connect With Me
 
