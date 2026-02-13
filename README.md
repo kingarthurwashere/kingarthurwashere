@@ -1,5 +1,20 @@
 # 👋 Arthur Nyasango | Full Stack Software Engineer | AI, IoT & Satellite Systems
 
+![Full Stack Engineer](https://img.shields.io/badge/Full%20Stack-Software%20Engineer-blue)
+![Systems Architect](https://img.shields.io/badge/Role-Systems%20Architect-success)
+![Founder](https://img.shields.io/badge/Founder-King%20Arthur%20Technologies-black)
+![Remote Ready](https://img.shields.io/badge/Remote-Ready-brightgreen)
+![AI](https://img.shields.io/badge/AI-ML%20Systems-purple)
+![IoT](https://img.shields.io/badge/IoT-MQTT%20%7C%20Sensors-orange)
+![Satellite](https://img.shields.io/badge/Satellite-Remote%20Sensing-blueviolet)
+![FinTech](https://img.shields.io/badge/FinTech-Payments%20%26%20Automation-green)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kali-black?logo=linux)
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-red?logo=laravel)
+![Flutter](https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter)
+![React](https://img.shields.io/badge/React-Advanced-blue?logo=react)
+
 🚀 **Full Stack Software Engineer • Systems Architect • Founder @ King Arthur Technologies**  
 🌍 Remote-ready | Zimbabwe  
 💡 Specializing in **AI-powered platforms, satellite remote sensing, IoT systems, fintech automation, and scalable web & mobile applications**
