@@ -1,75 +1,86 @@
-# 👋 Arthur Nyasango | Full Stack Software Engineer | AI, IoT & Satellite Systems
+# 👋 Arthur Nyasango  
+### Full Stack Software Engineer • Systems Architect • AI, IoT & Satellite Systems
 
-![Full Stack Engineer](https://img.shields.io/badge/Full%20Stack-Software%20Engineer-blue)
-![Systems Architect](https://img.shields.io/badge/Role-Systems%20Architect-success)
-![Founder](https://img.shields.io/badge/Founder-King%20Arthur%20Technologies-black)
-![Remote Ready](https://img.shields.io/badge/Remote-Ready-brightgreen)
-![AI](https://img.shields.io/badge/AI-ML%20Systems-purple)
-![IoT](https://img.shields.io/badge/IoT-MQTT%20%7C%20Sensors-orange)
-![Satellite](https://img.shields.io/badge/Satellite-Remote%20Sensing-blueviolet)
-![FinTech](https://img.shields.io/badge/FinTech-Payments%20%26%20Automation-green)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kali-black?logo=linux)
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![Laravel](https://img.shields.io/badge/Laravel-Expert-red?logo=laravel)
-![Flutter](https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter)
-![React](https://img.shields.io/badge/React-Advanced-blue?logo=react)
-
-🚀 **Full Stack Software Engineer • Systems Architect • Founder @ King Arthur Technologies**  
-🌍 Remote-ready | Zimbabwe  
-💡 Specializing in **AI-powered platforms, satellite remote sensing, IoT systems, fintech automation, and scalable web & mobile applications**
+![Full Stack Engineer](https://img.shields.io/badge/Full%20Stack-Software%20Engineer-0A66C2)
+![Systems Architect](https://img.shields.io/badge/Role-Systems%20Architect-2E7D32)
+![Founder](https://img.shields.io/badge/Founder-King%20Arthur%20Technologies-000000)
+![Remote Ready](https://img.shields.io/badge/Remote-Ready-00C853)
+![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Roles-brightgreen)
 
 ---
 
-## 🔎 Keywords (for GitHub Search)
-Full Stack Developer, Software Engineer, AI Engineer, IoT Developer,  
-Satellite Remote Sensing, GIS, FinTech, DevOps Engineer,  
-Python Developer, Laravel Developer, Flutter Developer, React Developer,  
-Docker, Kubernetes, PostgreSQL, WhatsApp Bots, Payment Systems
+## 🚀 Core Expertise
+
+![AI](https://img.shields.io/badge/AI-Machine%20Learning-6A1B9A)
+![IoT](https://img.shields.io/badge/IoT-MQTT%20%7C%20Sensors-F57C00)
+![Satellite](https://img.shields.io/badge/Satellite-Remote%20Sensing-3949AB)
+![GIS](https://img.shields.io/badge/GIS-PostGIS%20%7C%20Maps-1B5E20)
+![FinTech](https://img.shields.io/badge/FinTech-Payments%20%26%20Automation-2E7D32)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Secure%20Systems-B71C1C)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I design and build **production-grade software systems** that solve real-world problems — from **WhatsApp commerce and fintech platforms** to **satellite intelligence, AI-driven analytics, and IoT monitoring systems**.
+🚀 **Full Stack Software Engineer & Founder**, based in **Zimbabwe**, building **scalable, production-grade systems** across:
 
-- 🔭 **Currently working on**
-  - Satellite & IoT platforms for **agriculture and mining intelligence**
-  - AI-powered geospatial analytics
-  - WhatsApp automation & payment systems
-  - React + NestJS content & devotional platforms
+- AI-powered platforms
+- Satellite remote sensing & GIS
+- IoT monitoring systems
+- FinTech & payment automation
+- Web & mobile applications
 
-- 🧠 **Actively learning**
-  - Microservices & distributed systems
-  - Event-driven & low-latency architectures
-  - AI/ML for geospatial and time-series data
-
-- 💬 **Ask me about**
-  Flutter, Laravel, Node.js, Python, DevOps, APIs, GIS, satellite data, payments
+I focus on **real-world problem solving**, clean architecture, and systems that **scale securely**.
 
 ---
 
-## 🛠️ Tech Stack (Primary Skills)
+## 🔭 Current Focus
 
-### Programming Languages
-Python, JavaScript, TypeScript, PHP, C#, Java, SQL
+- 🛰️ Satellite & IoT platforms for **agriculture and mining intelligence**
+- 🌍 AI-driven **geospatial analytics**
+- 🤖 WhatsApp automation & payment systems
+- ⚙️ High-performance APIs & backend systems
+- 📦 Dockerized, CI/CD-driven deployments
 
-### Frameworks & Platforms
-Flutter, React, Vue, NestJS, Express.js, Laravel, Django, FastAPI,  
-ASP.NET, Spring Boot, FilamentPHP
+---
 
-### Databases & Data
-PostgreSQL, MySQL, MongoDB, Firebase Firestore, Cassandra, XML (ODM)
+## 🛠️ Tech Stack
 
-### DevOps & Cloud
-Docker, Jenkins, GitHub Actions, Nginx, Redis, CI/CD Pipelines
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?logo=php)
+![Java](https://img.shields.io/badge/Java-Intermediate-007396?logo=java)
+![CSharp](https://img.shields.io/badge/C%23-Intermediate-512BD4?logo=csharp)
 
-### APIs & Integrations
-Stripe, Paynow Zimbabwe, Pesepay,  
-Meta WhatsApp Cloud API, OAuth2, JWT, Webhooks
+---
 
-### Operating Systems
-Linux (Ubuntu, Kali), Windows Server, macOS
+### ⚙️ Frameworks & Platforms
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?logo=flutter)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?logo=react)
+![NestJS](https://img.shields.io/badge/NestJS-Advanced-E0234E?logo=nestjs)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?logo=laravel)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?logo=fastapi)
+![Django](https://img.shields.io/badge/Django-Advanced-092E20?logo=django)
+
+---
+
+### 🗄️ Databases & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-Firestore-FFCA28?logo=firebase)
+![PostGIS](https://img.shields.io/badge/PostGIS-Spatial%20Data-2E7D32)
+
+---
+
+### 🚢 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=github-actions)
+![Jenkins](https://img.shields.io/badge/Jenkins-Automation-D24939?logo=jenkins)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?logo=nginx)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kali-FCC624?logo=linux)
 
 ---
 
@@ -79,129 +90,87 @@ Linux (Ubuntu, Kali), Windows Server, macOS
 **Jan 2021 – Present**
 
 - Founded and led a software engineering consultancy
-- Built **WhatsApp bots, fintech platforms, mobile apps, and SaaS systems**
-- Designed scalable REST APIs, dashboards, and automation pipelines
-- Integrated payment gateways and messaging platforms
-- Delivered solutions across **fintech, health, retail, education, media**
+- Built WhatsApp bots, fintech systems, mobile apps & SaaS platforms
+- Designed secure, scalable REST APIs & dashboards
+- Integrated Stripe, Paynow, Pesepay & WhatsApp Cloud API
+- Served **fintech, health, retail, education & media** sectors
 
 ---
 
-### 🧑‍💻 Freelance Full Stack Developer
+### 🧑‍💻 Freelance Full Stack Developer  
 **2017 – Present**
 
-- Delivered **30+ production systems** for global clients
-- Built CRMs, ERPs, POS systems, chatbots, and internal tools
-- Developed scalable backends and modern frontends
-- Implemented authentication, payments, and third-party integrations
+- Delivered **30+ production systems**
+- Built CRMs, ERPs, POS systems, bots & internal platforms
+- Implemented OAuth2, JWT, payments & third-party APIs
 
 ---
 
-### 🛒 Backend Developer — StoreFire Platform
-**2024 – Present**
-
-- Laravel 11 backend for e-commerce data pipelines
-- Redis queues, scheduled jobs, and REST APIs
-- High-availability backend services
-
----
-
-### 💰 POS & Accounting System — Lead Architect
-**2023 – 2024**
-
-- Designed and implemented a POS & accounting platform
-- Secure transaction logs and remittance workflows
-- Stack: Laravel, FilamentPHP, MySQL, Docker, CI/CD
-
----
-
-## 🛰️ AI, IoT & Satellite Remote Sensing Projects
+## 🛰️ AI, IoT & Satellite Projects
 
 ### 🛰️ Mining Satellite Intelligence Platform *(Private)*
-
-AI-powered satellite remote sensing platform for **mining exploration and environmental monitoring**.
-
-**Key Capabilities**
 - Mineral alteration mapping
 - Lithology classification
-- Land-use & land-cover change detection
-- Environmental compliance dashboards
-
-**Tech Stack**
-Python, AI/ML, PostGIS, REST APIs, Docker, GIS
+- Land-use change detection
+- Environmental compliance dashboards  
+**Stack:** Python, AI/ML, PostGIS, Docker, GIS
 
 ---
 
 ### 🌾 Satellite Crop Monitoring & Land Use System
-
-AI + satellite platform for **precision agriculture and land analysis**.
-
-- NDVI & EVI crop health monitoring
+- NDVI/EVI crop health analysis
 - Drought & flood detection
-- Crop classification using machine learning
-- Interactive geospatial dashboards
-
-**Stack**
-Next.js, FastAPI, PostgreSQL/PostGIS, Mapbox, Python ML, MQTT
+- ML-based crop classification  
+**Stack:** Next.js, FastAPI, PostGIS, Mapbox, MQTT
 
 ---
 
-### 📡 IoT Satellite TV Signal Monitoring System
-
-- IoT-based signal health monitoring
-- Real-time telemetry via MQTT
-- Alerting & analytics dashboards
+### 📡 IoT Satellite TV Signal Monitoring
+- IoT telemetry via MQTT
+- Signal analytics & alerts
 
 ---
 
-## 💹 Quantitative Finance & Low-Latency Systems
+## 💹 Quantitative Systems
 
 ### ⚡ Polymer-Bot *(Private)*
-
-High-frequency, Python-based trading bot for **latency arbitrage and delta-neutral market making** on **:contentReference[oaicite:0]{index=0}**.
-
-- Real-time order book analysis
-- Low-latency execution
-- Risk-managed exposure
+High-frequency Python trading bot for **latency arbitrage & delta-neutral market making** on decentralized prediction markets.
 
 ---
 
-## 🏥 Health-Tech Software
+## 🏥 Health-Tech
 
 ### 🏥 Clinical Audit Dashboard *(Public)*
-
-Clinical audit data management system for  
-**:contentReference[oaicite:1]{index=1}**.
-
-- Structured clinical workflows
-- XML-based document modeling
-- Audit reporting & validation
-
----
-
-## 💼 Featured Projects
-
-| Project | Focus | Stack |
-|------|------|------|
-| WhatsApp Commerce Bot | Fintech automation | Python, PostgreSQL |
-| PlayAfrika TV | Mobile streaming | Flutter, Firebase |
-| POS & Remittance System | Accounting | Laravel, Filament |
-| StoreFire Backend | E-commerce APIs | Laravel, Redis |
+Clinical audit data system for radiotherapy workflows using XML-based ODM architecture.
 
 ---
 
 ## 📜 Certifications
 
+![Google](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google)
+- **Google Cybersecurity Professional Certificate** — Coursera
+
+![Google](https://img.shields.io/badge/Google-Flutter%20Training-4285F4?logo=google)
 - Google Africa Developer Training — Flutter
+
+![Meta](https://img.shields.io/badge/Meta-Full%20Stack%20Developer-1877F2?logo=meta)
 - Meta Full Stack Developer Specialization — Coursera
 
 ---
 
-## 🔗 Contact & Links
+## 📊 GitHub Stats
 
-- GitHub: https://github.com/kingarthurwashere
-- LinkedIn: https://linkedin.com/in/arthur-nyasango
-- Email: arthurnyasango@gmail.com
+![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingarthurwashere&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingarthurwashere&layout=compact&theme=transparent)
 
 ---
 
-> *“First, solve the problem. Then, write the code.”*
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/kingarthurwashere  
+- LinkedIn: https://linkedin.com/in/arthur-nyasango  
+- Email: arthurnyasango@gmail.com  
+
+---
+
+> **“First, solve the problem. Then, write the code.”**
