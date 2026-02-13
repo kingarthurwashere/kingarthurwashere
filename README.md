@@ -1,5 +1,10 @@
-# 👋 Arthur Nyasango  
-### Full Stack Software Engineer • Systems Architect • AI, IoT & Satellite Systems
+# Arthur Nyasango — Full Stack Software Engineer | Systems Architect
+
+> Building scalable AI, IoT, and satellite systems for real-world impact
+
+**Full Stack Software Engineer** • **Systems Architect** • **Founder at King Arthur Technologies**
+
+Expert in AI/ML, satellite remote sensing, IoT platforms, GIS, FinTech, and cybersecurity. Based in Zimbabwe. Open to remote opportunities.
 
 ![Full Stack Engineer](https://img.shields.io/badge/Full%20Stack-Software%20Engineer-0A66C2)
 ![Systems Architect](https://img.shields.io/badge/Role-Systems%20Architect-2E7D32)
@@ -9,7 +14,16 @@
 
 ---
 
-## 🚀 Core Expertise
+## Table of Contents
+- [Core Expertise](#-core-expertise)
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack)
+- [Professional Experience](#-professional-experience)
+- [Projects](#-projects)
+- [Certifications](#-certifications)
+- [Connect](#-connect-with-me)
+
+---
 
 ![AI](https://img.shields.io/badge/AI-Machine%20Learning-6A1B9A)
 ![IoT](https://img.shields.io/badge/IoT-MQTT%20%7C%20Sensors-F57C00)
@@ -106,42 +120,42 @@ I focus on **real-world problem solving**, clean architecture, and systems that 
 
 ---
 
-## 🛰️ AI, IoT & Satellite Projects
+## 🛰️ Featured Projects
 
 ### 🛰️ Mining Satellite Intelligence Platform *(Private)*
+Advanced mineral alteration mapping and lithology classification using satellite imagery and machine learning for mining operations.
 - Mineral alteration mapping
 - Lithology classification
 - Land-use change detection
 - Environmental compliance dashboards  
-**Stack:** Python, AI/ML, PostGIS, Docker, GIS
+**Tech:** Python, AI/ML, PostGIS, Docker, GIS
 
 ---
 
 ### 🌾 Satellite Crop Monitoring & Land Use System
+Real-time crop health monitoring and land-use change detection using NDVI/EVI analysis and machine learning.
 - NDVI/EVI crop health analysis
 - Drought & flood detection
 - ML-based crop classification  
-**Stack:** Next.js, FastAPI, PostGIS, Mapbox, MQTT
+**Tech:** Next.js, FastAPI, PostGIS, Mapbox, MQTT
 
 ---
 
 ### 📡 IoT Satellite TV Signal Monitoring
-- IoT telemetry via MQTT
-- Signal analytics & alerts
+IoT telemetry monitoring platform for satellite signal analytics and real-time alerts via MQTT.
+**Tech:** IoT, MQTT, Sensors, Analytics
 
 ---
 
-## 💹 Quantitative Systems
-
-### ⚡ Polymer-Bot *(Private)*
-High-frequency Python trading bot for **latency arbitrage & delta-neutral market making** on decentralized prediction markets.
+### 💹 Polymer-Bot *(Private)*
+High-frequency Python trading bot for latency arbitrage and delta-neutral market making on decentralized prediction markets.
+**Tech:** Python, Trading Systems, Quantitative Analysis
 
 ---
 
-## 🏥 Health-Tech
-
-### 🏥 Clinical Audit Dashboard *(Public)*
-Clinical audit data system for radiotherapy workflows using XML-based ODM architecture.
+### 🏥 Clinical Audit Dashboard
+Clinical audit data system for radiotherapy workflows using XML-based ODM architecture. [View Project](https://github.com/kingarthurwashere)
+**Tech:** Full Stack, Healthcare IT, Data Management
 
 ---
 
@@ -168,9 +182,16 @@ Clinical audit data system for radiotherapy workflows using XML-based ODM archit
 
 ## 🔗 Connect With Me
 
-- GitHub: https://github.com/kingarthurwashere  
-- LinkedIn: https://linkedin.com/in/arthur-nyasango  
-- Email: arthurnyasango@gmail.com  
+- **GitHub:** [@kingarthurwashere](https://github.com/kingarthurwashere)  
+- **LinkedIn:** [Arthur Nyasango](https://linkedin.com/in/arthur-nyasango)  
+- **Email:** arthurnyasango@gmail.com  
+- **Location:** Zimbabwe 🇿🇼 | Remote Ready 🌍
+
+---
+
+## Keywords
+
+`full-stack-developer` `systems-architect` `python` `javascript` `typescript` `react` `nestjs` `django` `fastapi` `flutter` `mobile-development` `web-development` `backend-development` `api-development` `machine-learning` `ai` `satellite-imagery` `remote-sensing` `gis` `iot` `mqtt` `fintech` `payments` `cybersecurity` `docker` `kubernetes` `ci-cd` `github-actions` `devops` `postgresql` `mongodb` `firebase` `whatsapp-api` `stripe-integration` `freelance-developer` `software-engineer` `zimbabwe-tech`
 
 ---
 
